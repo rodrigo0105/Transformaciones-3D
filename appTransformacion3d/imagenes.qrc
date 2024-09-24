@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/ima">
+        <file>bos.png</file>
+    </qresource>
+</RCC>
